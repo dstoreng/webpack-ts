@@ -1,6 +1,5 @@
-# webpack typescript boilerplate
+# Webpack && Typescript boilerplate
 
-Boilerplate with Webpack and Typescript
 
 ## Get started
 
