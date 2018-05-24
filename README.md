@@ -1,7 +1,7 @@
 # Webpack && Typescript boilerplate
 
 
-## Get started
+### Get started
 
 Install required packages
 ```
